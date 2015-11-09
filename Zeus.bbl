@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{Houmansadr2013707}
+A.~Houmansadr and N.~Borisov.
+\newblock Botmosaic: Collaborative network watermark for the detection of
+  irc-based botnets.
+\newblock {\em Journal of Systems and Software}, pages 707--715, 2013.
+
+\bibitem{Keisuke2009400}
+T.~Keisuke, F.~Masahiko, S.~Toshiya, and N.~Masakatsu.
+\newblock Host-based traceback; tracking bot and c\&c server.
+\newblock {\em Proceedings of the 3rd International Conference on Ubiquitous
+  Information Management and Communication, ICUIMC'09}, pages 400--405, 2009.
+
+\bibitem{Mizoguchi2011639}
+S.~Mizoguchi, K.~Takemori, Y.~Miyake, Y.~Hori, and K.~Sakurai.
+\newblock Traceback framework against botmaster by sharing network
+  communication pattern information.
+\newblock {\em Proceedings - 2011 5th International Conference on Innovative
+  Mobile and Internet Services in Ubiquitous Computing, IMIS 2011}, pages
+  639--644, 2011.
+
+\bibitem{Michael2015239}
+M.~Sandee.
+\newblock Gameover zeus: Background on badguys and the backends.
+\newblock {\em Fox-IT Whitepaper at Blackhat US}, 2015.
+
+\bibitem{Wang2014132}
+X.~Wang, J.~He, and Y.~Yang.
+\newblock A collaborative traceback against p2p botnet using information
+  sharing and correlation analysis.
+\newblock {\em Proceedings - 2014 International Conference on Cyber-Enabled
+  Distributed Computing and Knowledge Discovery, CyberC 2014}, pages 132--138,
+  2014.
+
+\bibitem{Wang198273490}
+X.~Wang, J.~He, and Y.~Yang.
+\newblock Image:.
+\newblock {\em Architecture of Zeus botnet}, page 134, 2014.
+
+\bibitem{Zhaosheng2008967}
+Z.~Zhaosheng, J.~Zhi, L.~Guohan, R.~Phil, C.~Yan, and H.~Keesook.
+\newblock Botnet research survey.
+\newblock {\em Proceedings - International Computer Software and Applications
+  Conference}, pages 967--972, 2008.
+
+\end{thebibliography}
